@@ -24,3 +24,7 @@ h2:hover {
     0 0 50px #009DFE,
     0 0 100px #009DFE;
 }
+
+audio {
+    display: none;
+}
